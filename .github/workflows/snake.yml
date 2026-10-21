@@ -15,14 +15,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
-    steps:
+steps:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange&color_dots=#bfd6f6,#6db33f,#196127,#0e4429
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#f536e5&color_dots=#161b22,#ff0000,#00ff00,#ffff00,#ff00ff
             
       - name: push animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
