@@ -48,7 +48,7 @@
 
 ---
 
-## 🕹️ GitHub Pacman Contribution Grid
+## 🕹️ GitHub snake Contribution Grid
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FaizTriramaMaulana/FaizTriramaMaulana/output/github-contribution-grid-snake-dark.svg" alt="Pacman Animation" />
