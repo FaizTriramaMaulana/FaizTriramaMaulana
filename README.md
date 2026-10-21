@@ -48,14 +48,6 @@
 
 ---
 
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizTriramaMaulana&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-</p>
-
----
-
 ## 🕹️ GitHub Pacman Contribution Grid
 
 <p align="center">
