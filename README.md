@@ -1,6 +1,11 @@
 <div align="center">
 
-# 👤 Hi Everyone 😜🤑
+<!-- Header Waving Cyberpunk Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f3ff,50:7aa2f7,100:bb9af7&height=200&section=header&text=Faiz%20Trirama%20Maulana&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" />
+
+👋 **Halo | Hello | Bonjour | Hoi | Hallo | こんにちは (Konnichiwa) | 안녕하세요 (Annyeonghaseyo) | 你好 (Nǐ hǎo) | ¡Hola! | Ciao | Olá | Здравствуйте (Zdravstvuyte) | مرحبا (Marhaban) | สวัสดี (Sawatdee)**
+
+Welcome to my profile! Feel free to explore my repositories and contributions.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=94AAFF&center=true&vCenter=true&width=435&height=40&lines=Hi%2C+I'm+Faiz+Trirama+M!;A+Frontend+Engineer;Nuxt+%26+Vue+Developer;Passionate+Problem+Solver" alt="Typing SVG" />
 
@@ -48,10 +53,10 @@
 
 ---
 
-## 🕹️ GitHub snake Contribution Grid
+## 🕹️ GitHub Snake Contribution Grid
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FaizTriramaMaulana/FaizTriramaMaulana/output/github-contribution-grid-snake-dark.svg" alt="Pacman Animation" />
+  <img src="https://raw.githubusercontent.com/FaizTriramaMaulana/FaizTriramaMaulana/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Grid" />
 </p>
 
 ---
